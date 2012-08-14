@@ -20,7 +20,7 @@
 #include <stdlib.h>
 
 extern "C" {
-#include <jpeglib.h>
+#include "libyuv/jpeglib.h"
 }
 
 #include <climits>
